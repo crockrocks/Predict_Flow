@@ -25,7 +25,7 @@ Not every question was shown to every respondent, as some questions were specifi
 
 ## EDA and Data visualisation: 
 The first analysis was just exploring the data and genearting the insights and analysis from the dataset. 
-It is displayed in 
+It is displayed in https://github.com/crockrocks/Predict_Flow/blob/main/EDA.ipynb
 
 ### Visualisation using Power BI
 ![image](https://github.com/crockrocks/Predict_Flow/assets/91060961/ff9252ce-f737-4d47-b6ec-9858ba9541fc)
