@@ -23,6 +23,13 @@ To account for graduates in marginalized locations, tracking officers from BudgI
 We removed about 600 responses that were incomplete from the offline version of the survey before we arrived at 5,219 total responses.
 Not every question was shown to every respondent, as some questions were specifically for those who are employed or other cases as it may be.
 
-## EDA : 
+## EDA and Data visualisation: 
 The first analysis was just exploring the data and genearting the insights and analysis from the dataset. 
 It is displayed in 
+
+## Feature Engineering and modelling
+The next step was to study the analysis and visualisations to figure out the important columns and collect information out of those columns , converting categorical columns into numerical quantities , ordinal encoding of the values to simplify the dataset and to improve the overall quality of dataset for model training .
+Adding features such as standard of living from the columns and then computing the correlation of the columns.
+
+Modelling involved selecting linear regression as the machine learning model as it suited our problem statement and to train it on the dataset generated using feature engineering.
+The code can be shown in : https://github.com/crockrocks/Predict_Flow/blob/main/feature_engineering_modelling.ipynb
