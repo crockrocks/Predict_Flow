@@ -27,6 +27,13 @@ Not every question was shown to every respondent, as some questions were specifi
 The first analysis was just exploring the data and genearting the insights and analysis from the dataset. 
 It is displayed in 
 
+### Visualisation using Power BI
+![image](https://github.com/crockrocks/Predict_Flow/assets/91060961/ff9252ce-f737-4d47-b6ec-9858ba9541fc)
+![image](https://github.com/crockrocks/Predict_Flow/assets/91060961/7a3070b8-13e0-4dd7-9665-e43081307981)
+![image](https://github.com/crockrocks/Predict_Flow/assets/91060961/2693f645-9a1f-4081-b7d4-10444dcd7c37)
+
+
+
 ## Feature Engineering and modelling
 The next step was to study the analysis and visualisations to figure out the important columns and collect information out of those columns , converting categorical columns into numerical quantities , ordinal encoding of the values to simplify the dataset and to improve the overall quality of dataset for model training .
 Adding features such as standard of living from the columns and then computing the correlation of the columns.
